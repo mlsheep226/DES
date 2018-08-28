@@ -13,7 +13,7 @@ import javax.swing.SwingUtilities;
 import javax.swing.border.Border;
 
 /**
- * Main class for DES
+ * GUI for DES
  * @author MItchell Sheep
  * @since 4/16/2018
  * @version 2.0
