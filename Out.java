@@ -11,6 +11,14 @@ import javax.swing.JLabel;
 import javax.swing.JTextField;
 import javax.swing.SwingUtilities;
 import javax.swing.border.Border;
+
+/**
+ * Main class for DES
+ * @author MItchell Sheep
+ * @since 4/16/2018
+ * @version 2.0
+ *
+ */
  
 public class Out extends JFrame
 {
